@@ -103,6 +103,21 @@ fimalgoritmo
 
 
 // Matriz (Arrays Bidimensionais)
+var
+   matriz: vetor[1..2, 1..3] de inteiro
+
+inicio
+   matriz[1,1] <- 10
+   matriz[1,2] <- 20
+   matriz[1,3] <- 30
+   matriz[2,1] <- 40
+   matriz[2,2] <- 50
+   matriz[2,3] <- 60
+
+   escreval(matriz[2,3]) // Exibe 60
+fimalgoritmo
+
+
 algoritmo "exemplo_matriz"
 var
    matriz : vetor[1..2, 1..3] de inteiro
