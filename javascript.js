@@ -140,3 +140,13 @@ let n2 = prompt(`Digite outro número:`)
 function somar(){
     return console.log(`A soma de ambos= ${n1 + n1}`)
 }
+
+// ✅ Resumo da Sequência
+// ✔ Introdução
+// ✔ Variáveis
+// ✔ Condicionais (Se, Escolha)
+// ✔ Laços (Enquanto, Para, Repita)
+// ✔ Vetores
+// ✔ Matrizes
+// ✔ Registro
+// ✔ Funções e Procedimentos
